@@ -2,6 +2,5 @@
 .vscode
 *.swp
 
-coverage
-dist
+build
 node_modules
